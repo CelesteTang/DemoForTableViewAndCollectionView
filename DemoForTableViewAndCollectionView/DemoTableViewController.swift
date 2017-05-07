@@ -10,9 +10,9 @@ import UIKit
 
 class DemoTableViewController: UITableViewController {
 
-//    var countries = ["Spain", "France", "Japan", "India", "Korea", "China", "Philippines", "Argentia", "Brasil"]
+//    let countries = ["Spain", "France", "Japan", "India", "Korea", "China", "Philippines", "Argentia", "Brasil"]
     
-    var countries = ["Av de Isabel la Católica, 41004 Sevilla, Spain", "35 Rue du Chevalier de la Barre, 75018 Paris, France", "11 Naitōmachi, Shinjuku-ku, Tōkyō-to 160-0014, Japan", "Mahakali Caves Rd, Sunder Nagar, Andheri East, Sunder Nagar, Jogeshwari East, Mumbai, Maharashtra 400093, India", "40-1003 Hangangno 3(sam)-ga, Yongsan-gu, Seoul, Korea", "Av. Cárcano s/n, Chateau Carreras, Córdoba, Argentia", "Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ, 22010-000, Brasil"]
+    let countries = ["Av de Isabel la Católica, 41004 Sevilla, Spain", "35 Rue du Chevalier de la Barre, 75018 Paris, France", "11 Naitōmachi, Shinjuku-ku, Tōkyō-to 160-0014, Japan", "Mahakali Caves Rd, Sunder Nagar, Andheri East, Sunder Nagar, Jogeshwari East, Mumbai, Maharashtra 400093, India", "40-1003 Hangangno 3(sam)-ga, Yongsan-gu, Seoul, Korea", "Av. Cárcano s/n, Chateau Carreras, Córdoba, Argentia", "Av. Atlântica, S/N - Copacabana, Rio de Janeiro - RJ, 22010-000, Brasil"]
 
     
     override func viewDidLoad() {
