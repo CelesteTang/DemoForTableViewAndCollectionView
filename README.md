@@ -1,6 +1,6 @@
 # DemoForTableViewAndCollectionView
 
-**DemoForTableViewAndCollectionView** 是我整理的 UITableViewController 和 UICollectionViewController 實作的專案，除了複習之外，也希望可以幫助更多剛接觸 iOS App 開發的朋友，如有錯誤也歡迎一起討論。
+**DemoForTableViewAndCollectionView** 是一個基礎的 UITableViewController 和 UICollectionViewController 實作的專案，希望可以幫助剛接觸 iOS App 開發的朋友，如有錯誤也歡迎提出一起討論。
 
 文章連結：
 * Part 1: <https://goo.gl/FBdexY>
